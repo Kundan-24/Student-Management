@@ -32,4 +32,4 @@ MySQL database is used for storing student records.
 
 ## Author
 
-Kundan
+Kundan Kumar
